@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Document Template Converter.exe" version="1.0.0.0" publicKeyToken="733855c99eb92e0c" language="en-US" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="document_1452210473_templates.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Document Template Converter" version="1.0.0.0" publicKeyToken="733855C99EB92E0C" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Document Template Converter.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Document Template Converter.exe" size="512912">
+      <assemblyIdentity name="Document Template Converter" version="1.0.0.0" publicKeyToken="733855C99EB92E0C" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>LTyznvhIk+aUEXz31fwTxmoXEHjyN9Gnd5TGOYx3BwQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Document Template Converter.exe.config" size="1281">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>uIxHfaTauZ52+BADkeJd1liJyild7PTwJMOXB+wTjuI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="document_1452210473_templates.ico" size="103282">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>sWeM1asEwsLDM6+BazBl5iJ7ZEVNKDWdV+xr3IDnzaw=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=NA\GeeTC" issuerKeyHash="9184d6f9fb676b8c518be5e8d1232bd82f41f69a" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>XwVhdEPW38aHetkdhxUp8TOQemG1b/siBGxN6vZUPI0=</DigestValue></Reference></SignedInfo><SignatureValue>stmd5+7IU7kfDFM3zpSQgGDOTxQDlyaqEWs+PUlqjkafPj1fSAA8RGW7woqAqXYG3scoo1kRNaq7fyDRdk9Crd69PuzLftEc8ZFzSf6VM42Yi7LoFJ1SN1qIhBmMk521KIbvau2CAFEEGKoNGLt1X7JX9LBobod3FCWY82Ulv+0=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>40WxrLWzKK5hdXJicjjIqbs0wk57gGLvWPwLRwlAOqMuq0+HljXy9rEhefsowXCdwqkbHVNJdnnQ4X8DWpqxxEzFOaIfkZFqUjZkFefv+iMHIXSkMUCXIshrnvzQAbuqTYr4a2TxPFgszO6jFNAPslu46a0/0+8R8+f1Jbyikt8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="8d3c54f6ea4d6c0422fb6fb5617a9033f12915871dd97a87c6dfd6437461055f" Description="" Url=""><as:assemblyIdentity name="Document Template Converter.exe" version="1.0.0.0" publicKeyToken="733855c99eb92e0c" language="en-US" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=NA\GeeTC</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Fjp9+V7n894FsHAtWZL1cjSJJb8Nv3+KjmNgxFyXMSI=</DigestValue></Reference></SignedInfo><SignatureValue>W1A27oDN/qzpKXvW7yvAypgWKxSgiM9tCtpTMVC+ItFwTVHBLP+tIMJ++K0qTzPIgyALfcB2DvZz2KzyY9xyxy1wSBI/krHwrstH5sWa94Rxj9zDfJE0vRxp+fWyXE0sBqDVnHTcgEDMPoY2RwzuaK4iLgC/SVEEopXZw9N1Dos=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>40WxrLWzKK5hdXJicjjIqbs0wk57gGLvWPwLRwlAOqMuq0+HljXy9rEhefsowXCdwqkbHVNJdnnQ4X8DWpqxxEzFOaIfkZFqUjZkFefv+iMHIXSkMUCXIshrnvzQAbuqTYr4a2TxPFgszO6jFNAPslu46a0/0+8R8+f1Jbyikt8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBuTCCASKgAwIBAgIQIGugk11F9YhH/JvEjkWNkTANBgkqhkiG9w0BAQsFADAbMRkwFwYDVQQDHhAATgBBAFwARwBlAGUAVABDMB4XDTE2MTAxMTEzNTcwN1oXDTE3MTAxMTE5NTcwN1owGzEZMBcGA1UEAx4QAE4AQQBcAEcAZQBlAFQAQzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA40WxrLWzKK5hdXJicjjIqbs0wk57gGLvWPwLRwlAOqMuq0+HljXy9rEhefsowXCdwqkbHVNJdnnQ4X8DWpqxxEzFOaIfkZFqUjZkFefv+iMHIXSkMUCXIshrnvzQAbuqTYr4a2TxPFgszO6jFNAPslu46a0/0+8R8+f1Jbyikt8CAwEAATANBgkqhkiG9w0BAQsFAAOBgQAeNyc1udhs9W7K6TzQsemcHlEYrisIMxjXD1oO+TixZyi/JuXQg9Dj0zk3TxAHNtRF0v5z3ykHuNNFEqNBlwANfGTauPDfGCvA9KVfHaTyI5l3fFUZUcKnEVlHcpsk1rbPgCNxayZbtNm7Df1+hIv9eazGf6wx4j/uCoe77SVagw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

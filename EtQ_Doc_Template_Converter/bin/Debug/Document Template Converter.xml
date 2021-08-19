@@ -1,0 +1,86 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Document Template Converter
+</name>
+</assembly>
+<members>
+<member name="T:Document_Converter.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Document_Converter.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Document_Converter.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Document_Converter.My.Resources.Resources.excel24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Document_Converter.My.Resources.Resources.folder_next">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Document_Converter.My.Resources.Resources.folder_process">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Document_Converter.My.Resources.Resources.Gradient">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Document_Converter.My.Resources.Resources.Gradient_DarkTop">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Document_Converter.My.Resources.Resources.red_square">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Document_Converter.My.Resources.Resources.word">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:Document_Converter.frm_Main.txt_SourceDirectory_DoubleClick(System.Object,System.EventArgs)">
+ <summary>
+ Select the source directory
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Document_Converter.frm_Main.ConvertToWordTemplate(System.String,System.String,System.String,System.String)">
+ <summary>
+ This method performs the actual conversion of the original Word file into the new Template format
+ </summary>
+ <param name="SourceDoc">The path to the original document you wish to convert</param>
+ <param name="TemplateDoc">The path to the template file you want the original converted into</param>
+ <param name="OutputDirectory">The output directory where the converted file should be saved</param>
+ <param name="FilePrefix">The string that should be prefixed to the new file name (optional)</param>
+</member>
+<member name="M:Document_Converter.frm_Main.GetFilesRecursive(System.String)">
+ <summary>
+ This method starts at the specified directory and traverses through all subdirectores and returns a list of files
+ </summary>
+ <param name="InitialDirectory">Parent directory to begin scanning down from</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

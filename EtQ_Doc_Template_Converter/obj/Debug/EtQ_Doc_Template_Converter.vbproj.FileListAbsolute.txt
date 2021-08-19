@@ -1,0 +1,12 @@
+C:\code\cetcollection\DivIT\EtQ\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\bin\Debug\EtQ_Doc_Template_Converter.exe.config
+C:\code\cetcollection\DivIT\EtQ\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\bin\Debug\EtQ_Doc_Template_Converter.exe
+C:\code\cetcollection\DivIT\EtQ\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\bin\Debug\EtQ_Doc_Template_Converter.pdb
+C:\code\cetcollection\DivIT\EtQ\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\bin\Debug\EtQ_Doc_Template_Converter.xml
+C:\code\cetcollection\DivIT\EtQ\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\EtQ_Document_Converter.frm_Main.resources
+C:\code\cetcollection\DivIT\EtQ\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\EtQ_Document_Converter.Resources.resources
+C:\code\cetcollection\DivIT\EtQ\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\EtQ_Doc_Template_Converter.vbproj.GenerateResource.Cache
+C:\code\cetcollection\DivIT\EtQ\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\EtQ_Doc_Template_Converter.exe
+C:\code\cetcollection\DivIT\EtQ\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\EtQ_Doc_Template_Converter.xml
+C:\code\cetcollection\DivIT\EtQ\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\EtQ_Doc_Template_Converter.pdb
+C:\code\cetcollection\DivIT\EtQ\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\EtQ_Doc_Template_Converter.vbprojResolveAssemblyReference.cache
+C:\code\cetcollection\DivIT\EtQ\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\bin\Debug\Doc_Template_Converter.exe.config

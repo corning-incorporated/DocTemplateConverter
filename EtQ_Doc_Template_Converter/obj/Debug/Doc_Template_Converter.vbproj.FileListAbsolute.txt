@@ -1,0 +1,46 @@
+C:\code\cetcollection\DivIT\EtQ\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\bin\Debug\Doc_Template_Converter.exe.config
+C:\code\cetcollection\DivIT\EtQ\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\bin\Debug\Doc_Template_Converter.exe
+C:\code\cetcollection\DivIT\EtQ\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\bin\Debug\Doc_Template_Converter.pdb
+C:\code\cetcollection\DivIT\EtQ\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\bin\Debug\Doc_Template_Converter.xml
+C:\code\cetcollection\DivIT\EtQ\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\Document_Converter.frm_Main.resources
+C:\code\cetcollection\DivIT\EtQ\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\Document_Converter.Resources.resources
+C:\code\cetcollection\DivIT\EtQ\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\Doc_Template_Converter.vbproj.GenerateResource.Cache
+C:\code\cetcollection\DivIT\EtQ\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\Doc_Template_Converter.exe
+C:\code\cetcollection\DivIT\EtQ\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\Doc_Template_Converter.xml
+C:\code\cetcollection\DivIT\EtQ\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\Doc_Template_Converter.pdb
+D:\My Documents\Visual Studio Project Backups\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\bin\Debug\app.config
+D:\My Documents\Visual Studio Project Backups\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\bin\Debug\Document Template Converter.exe.config
+D:\My Documents\Visual Studio Project Backups\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\bin\Debug\Document Template Converter.exe.manifest
+D:\My Documents\Visual Studio Project Backups\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\bin\Debug\Document Template Converter.application
+D:\My Documents\Visual Studio Project Backups\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\bin\Debug\Document Template Converter.exe
+D:\My Documents\Visual Studio Project Backups\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\bin\Debug\Document Template Converter.pdb
+D:\My Documents\Visual Studio Project Backups\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\bin\Debug\Document Template Converter.xml
+D:\My Documents\Visual Studio Project Backups\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\Document_Converter.frm_Activate.resources
+D:\My Documents\Visual Studio Project Backups\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\Document_Converter.frm_Main.resources
+D:\My Documents\Visual Studio Project Backups\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\Document_Converter.Resources.resources
+D:\My Documents\Visual Studio Project Backups\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\Doc_Template_Converter.vbproj.GenerateResource.cache
+D:\My Documents\Visual Studio Project Backups\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\Doc_Template_Converter.vbproj.CoreCompileInputs.cache
+D:\My Documents\Visual Studio Project Backups\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\Document Template Converter.exe.manifest
+D:\My Documents\Visual Studio Project Backups\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\Document Template Converter.application
+D:\My Documents\Visual Studio Project Backups\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\Document Template Converter.exe
+D:\My Documents\Visual Studio Project Backups\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\Document Template Converter.xml
+D:\My Documents\Visual Studio Project Backups\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\Document Template Converter.pdb
+D:\My Documents\Visual Studio Project Backups\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\Doc_Template_Converter.vbprojAssemblyReference.cache
+\\na.corning.com\EREJ-UD$\UD3\geetc\My Documents\Visual Studio 2017\Projects\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\bin\Debug\app.config
+\\na.corning.com\EREJ-UD$\UD3\geetc\My Documents\Visual Studio 2017\Projects\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\bin\Debug\Document Template Converter.exe.config
+\\na.corning.com\EREJ-UD$\UD3\geetc\My Documents\Visual Studio 2017\Projects\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\bin\Debug\Document Template Converter.exe.manifest
+\\na.corning.com\EREJ-UD$\UD3\geetc\My Documents\Visual Studio 2017\Projects\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\bin\Debug\Document Template Converter.application
+\\na.corning.com\EREJ-UD$\UD3\geetc\My Documents\Visual Studio 2017\Projects\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\bin\Debug\Document Template Converter.exe
+\\na.corning.com\EREJ-UD$\UD3\geetc\My Documents\Visual Studio 2017\Projects\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\bin\Debug\Document Template Converter.pdb
+\\na.corning.com\EREJ-UD$\UD3\geetc\My Documents\Visual Studio 2017\Projects\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\bin\Debug\Document Template Converter.xml
+\\na.corning.com\EREJ-UD$\UD3\geetc\My Documents\Visual Studio 2017\Projects\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\Doc_Template_Converter.vbproj.AssemblyReference.cache
+\\na.corning.com\EREJ-UD$\UD3\geetc\My Documents\Visual Studio 2017\Projects\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\Document_Converter.frm_Activate.resources
+\\na.corning.com\EREJ-UD$\UD3\geetc\My Documents\Visual Studio 2017\Projects\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\Document_Converter.frm_Main.resources
+\\na.corning.com\EREJ-UD$\UD3\geetc\My Documents\Visual Studio 2017\Projects\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\Document_Converter.Resources.resources
+\\na.corning.com\EREJ-UD$\UD3\geetc\My Documents\Visual Studio 2017\Projects\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\Doc_Template_Converter.vbproj.GenerateResource.cache
+\\na.corning.com\EREJ-UD$\UD3\geetc\My Documents\Visual Studio 2017\Projects\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\Doc_Template_Converter.vbproj.CoreCompileInputs.cache
+\\na.corning.com\EREJ-UD$\UD3\geetc\My Documents\Visual Studio 2017\Projects\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\Document Template Converter.exe.manifest
+\\na.corning.com\EREJ-UD$\UD3\geetc\My Documents\Visual Studio 2017\Projects\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\Document Template Converter.application
+\\na.corning.com\EREJ-UD$\UD3\geetc\My Documents\Visual Studio 2017\Projects\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\Document Template Converter.exe
+\\na.corning.com\EREJ-UD$\UD3\geetc\My Documents\Visual Studio 2017\Projects\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\Document Template Converter.xml
+\\na.corning.com\EREJ-UD$\UD3\geetc\My Documents\Visual Studio 2017\Projects\EtQ_Doc_Template_Converter\EtQ_Doc_Template_Converter\obj\Debug\Document Template Converter.pdb
