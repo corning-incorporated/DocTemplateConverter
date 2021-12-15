@@ -1,0 +1,12 @@
+# More information about each of these include jobs and available configuration overrides are available the commented links.
+include:
+  - template: Jobs/Code-Quality.gitlab-ci.yml # https://docs.gitlab.com/ee/user/project/merge_requests/code_quality.html
+  - template: Security/Dependency-Scanning.gitlab-ci.yml # https://docs.gitlab.com/ee/user/application_security/dependency_scanning/index.html
+  - template: Security/License-Scanning.gitlab-ci.yml # https://docs.gitlab.com/ee/user/compliance/license_compliance/index.html
+  - template: Security/SAST.gitlab-ci.yml # https://docs.gitlab.com/ee/user/application_security/sast/index.html
+  - template: Security/Secret-Detection.gitlab-ci.yml # https://docs.gitlab.com/ee/user/application_security/secret_detection/index.html
+
+# build, test and deploy stages are available by default, but we explicitly define the test
+# stage as it's required by the included jobs.
+stages:
+  - test
