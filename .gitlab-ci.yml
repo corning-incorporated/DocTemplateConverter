@@ -1,0 +1,21 @@
+# Include static scan templates for quality, security and compliance
+# These jobs are all "static" scans against the repository's source and don't require a deployed environment.
+include:
+  - template: Security/Container-Scanning.gitlab-ci.yml
+  - template: Security/Dependency-Scanning.gitlab-ci.yml
+  - template: Security/License-Scanning.gitlab-ci.yml
+  - template: Security/SAST.gitlab-ci.yml
+  - template: Security/Secret-Detection.gitlab-ci.yml
+
+# override the rules on the container_scanning job (add positive check for `Dockerfile` in the repo)
+container_scanning:
+  rules:
+    - if: $CONTAINER_SCANNING_DISABLED
+      when: never
+    - if: $CI_COMMIT_BRANCH &&
+        $GITLAB_FEATURES =~ /\bcontainer_scanning\b/
+      exists:
+        - Dockerfile
+
+stages:
+  - test
