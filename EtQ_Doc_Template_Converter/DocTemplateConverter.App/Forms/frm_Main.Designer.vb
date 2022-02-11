@@ -1,4 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
+' **************************************************
+'   Copyright 2021 Corning Incorporated
+'   Author: Tom Gee
+' **************************************************
+
+<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class frm_Main
     Inherits System.Windows.Forms.Form
 
