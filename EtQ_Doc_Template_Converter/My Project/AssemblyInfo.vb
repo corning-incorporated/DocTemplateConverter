@@ -1,4 +1,9 @@
-﻿Imports System
+' **************************************************
+'   Copyright 2021 Corning Incorporated
+'   Author: Tom Gee
+' **************************************************
+
+Imports System
 Imports System.Reflection
 Imports System.Runtime.InteropServices
 
