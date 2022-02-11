@@ -1,4 +1,9 @@
-﻿Imports System.IO
+' **************************************************
+'   Copyright 2021 Corning Incorporated
+'   Author: Tom Gee
+' **************************************************
+
+Imports System.IO
 Imports Microsoft.Office.Interop
 Imports Microsoft.Office.Interop.Word
 
